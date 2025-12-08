@@ -1,10 +1,1 @@
-{"code": "USD", "name": "United States Dollar", "symbol": "$"}
-{"code": "EUR", "name": "Euro", "symbol": "€"}
-{"code": "GBP", "name": "British Pound Sterling", "symbol": "£"}
-{"code": "JPY", "name": "Japanese Yen", "symbol": "¥"}
-{"code": "CHF", "name": "Swiss Franc", "symbol": "CHF"}
-{"code": "AUD", "name": "Australian Dollar", "symbol": "A$"}
-{"code": "CAD", "name": "Canadian Dollar", "symbol": "C$"}
-{"code": "NZD", "name": "New Zealand Dollar", "symbol": "NZ$"}
-{"code": "SEK", "name": "Swedish Krona", "symbol": "kr"}
-{"code": "NOK", "name": "Norwegian Krone", "symbol": "kr"}
+{"access_mode":["open"],"api":false,"api_status":null,"catalog_type":"Sample dataset","content_types":["text"],"coverage":[],"description":"Currencies example dataset.","endpoints":[{"type":"raw_http","url":"https://raw.githubusercontent.com/iliabondarev/dateno-dag-test/refs/heads/main/sample.json"}],"id":"sample_dataset","langs":[{"id":"EN","name":"English"}],"link":"https://github.com/iliabondarev/dataeno-dag-test","name":"Currencies","owner":{"name":"iliabondarev","type":"community","link":"https://github.com/iliabondarev"},"properties":{},"rights":{"license_id":null,"license_name":null,"license_url":null,"privacy_policy_url":null,"rights_type":"unknown","tos_url":null},"software":{"id":"raw_http","name":"Raw HTTP"},"status":"active","tags":["example","education"],"topics":[{"id":"EDUC","name":"Education, culture and sport","type":"eudatatheme"},{"id":"TECH","name":"Science and technology","type":"eudatatheme"}],"uid":"raw00000002"}
